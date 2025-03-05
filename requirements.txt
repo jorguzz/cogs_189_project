@@ -1,0 +1,4 @@
+psychopy>=2022.1.4
+brainflow>=5.1.2
+pyserial>=3.5
+numpy==1.23.5
